@@ -1,9 +1,9 @@
-Source: mint-wow64
+Source: zorin-gtk-theme-blue
 Priority: optional
 Maintainer: Luis Guerra
-Version: 0.8
+Version: 3.4.3
 Essential: no
-Package: mint-wow64
+Package: zorin-gtk-theme-blue
 Architecture: all
-Homepage: https://github.com/luisrguerra/mint-wow64
-Description: Mint Wow64 GTK theme for Linux Mint.
+Homepage: https://github.com/ZorinOS/zorin-desktop-themes
+Description: Zorin OS 16 GTK theme in blue color.
