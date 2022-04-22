@@ -1,0 +1,9 @@
+Source: zorin-gtk-theme-green
+Priority: optional
+Maintainer: Luis Guerra
+Version: 3.4.3
+Essential: no
+Package: zorin-gtk-theme-green
+Architecture: all
+Homepage: https://github.com/ZorinOS/zorin-desktop-themes
+Description: Zorin OS 16 GTK theme in green color.
