@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Blue-Light-Zorin-Mint
+Comment=The light desktop theme with blue highlights for Linux Mint
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Blue-Light-Zorin-Mint
+MetacityTheme=Blue-Light-Zorin-Mint
+CursorTheme=Adwaita
+ButtonLayout=:minimize,maximize,close
