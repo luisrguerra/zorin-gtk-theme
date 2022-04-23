@@ -16,9 +16,9 @@
 <constant name="C_wm_bg" value="#F5F7FA" />
 <constant name="C_wm_bg_unfocused" value="gtk:custom(wm_bg_unfocused,#d9d9d9)" />
 
-<constant name="C_wm_border" value="gtk:custom(wm_border,#bababa)" />
-<constant name="C_wm_border_unfocused" value="gtk:custom(wm_border_unfocused,#bababa)" />
-<constant name="C_wm_highlight" value="gtk:custom(wm_highlight,#eeeeee)" />
+<constant name="C_wm_border" value="#F5F7FA" />
+<constant name="C_wm_border_unfocused" value="#F5F7FA" />
+<constant name="C_wm_highlight" value="#F5F7FA" />
 
 <!-- window button colors -->
 
