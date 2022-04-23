@@ -31,9 +31,9 @@
 
 <!-- minimize, maximize -->
 <constant name="C_button_bg_hover" value="gtk:custom(wm_button_hover_bg,#fdfdfd)" />
-<constant name="C_button_bg_active" value="gtk:custom(wm_button_active_bg,#909090)" />
+<constant name="C_button_bg_active" value="gtk:custom(wm_button_active_bg,#2A3439)" />
 
-<constant name="C_icon_bg_focused" value="gtk:custom(wm_icon_bg,#b6b6b6)" />
+<constant name="C_icon_bg_focused" value="gtk:custom(wm_icon_bg,#BDE6FB)" />
 <constant name="C_icon_bg_unfocused" value="gtk:custom(wm_icon_unfocused_bg,#404040)" />
 <constant name="C_icon_bg_hover" value="gtk:custom(wm_icon_hover_bg,#404040)" />
 <constant name="C_icon_bg_active" value="gtk:custom(wm_icon_active_bg,#ffffff)" />
@@ -295,8 +295,8 @@
 </draw_ops>
 
 <draw_ops name="maximize_focused_prelight">
-	<image filename="button-bg.svg" colorize="C_button_bg_hover" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	<image filename="max-icon.svg" colorize="C_icon_bg_hover" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
+	<image filename="button-bg.svg" colorize="C_button_bg_active" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
+	<image filename="max-icon.svg" colorize="C_icon_bg_active" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
 </draw_ops>
 
 <draw_ops name="maximize_unfocused">
@@ -314,8 +314,8 @@
 </draw_ops>
 
 <draw_ops name="unmaximize_focused_prelight">
-    <image filename="button-bg.svg" colorize="C_button_bg_hover" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-    <image filename="restore-icon.svg" colorize="C_icon_bg_hover" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
+    <image filename="button-bg.svg" colorize="C_button_bg_active" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
+    <image filename="restore-icon.svg" colorize="C_icon_bg_active" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
 </draw_ops>
 
 <draw_ops name="unmaximize_unfocused">
@@ -333,8 +333,8 @@
 </draw_ops>
 
 <draw_ops name="minimize_focused_prelight">
-	<image filename="button-bg.svg" colorize="C_button_bg_hover" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
-	<image filename="min-icon.svg" colorize="C_icon_bg_hover" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
+	<image filename="button-bg.svg" colorize="C_button_bg_active" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
+	<image filename="min-icon.svg" colorize="C_icon_bg_active" x="(width-object_width)/2" y="(height-object_height)/2" width="object_width" height="object_height"/>
 </draw_ops>
 
 <draw_ops name="minimize_unfocused">
