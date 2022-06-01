@@ -1,9 +1,8 @@
-Source: Zorin-Mint-Theme
+Source: Bill-Theme
 Priority: optional
 Maintainer: Luis Guerra
-Version: 1.0
+Version: 0.1
 Essential: no
-Package: Zorin-Mint-Theme
+Package: Bill-Theme
 Architecture: all
-Homepage: https://github.com/ZorinOS/zorin-desktop-themes
-Description: Zorin OS 16 GTK theme in blue color.
+Description: Fluent design GTK and Cinnamon theme.
